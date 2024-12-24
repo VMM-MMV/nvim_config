@@ -70,4 +70,5 @@ Tree-sitter
   - *Check for diagnostics* from **Ruff** and **MyPy**.
   - *Debug a Python file* using the key mappings defined above.
 =======
-This is my neovim config. A nvchad config with some modifications made by me.
+=======
+>>>>>>> source-repo/master
