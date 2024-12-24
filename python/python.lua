@@ -26,6 +26,7 @@ end
     })
 
 local dap = require('dap')
+require("python.plugins")
 
 -- Set key mappings for debugging
 vim.api.nvim_set_keymap('n', '<F5>', ':lua require"dap".continue()<CR>', { noremap = true, silent = true })  -- Start/Continue
